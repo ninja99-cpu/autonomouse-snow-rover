@@ -137,4 +137,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built by [YOUR NAME]*
+*Built by Danny Alrayyes*
