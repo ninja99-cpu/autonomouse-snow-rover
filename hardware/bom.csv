@@ -1,0 +1,18 @@
+Component,Quantity,Category,Notes,Source
+5010 Brushless Motor 360KV 2-6S,3,Motors,"2x drive motors, 1x impeller motor",
+30A BLHeli ESC (bidirectional 2-4S),2,Electronics,Drive motors — reprogrammed for bidirectional,
+40A Waterproof ESC (2-4S),1,Electronics,Impeller motor,
+Omnibus F4 Flight Controller,1,Electronics,STM32F405 — running ArduPilot Rover,
+4S LiPo Battery 6000mAh XT60,1,Power,,
+Power Distribution Board (PDB),1,Power,5V regulated output for FC,
+BE-220 GPS Module,1,Navigation,,
+FlySky FS-i6 Transmitter,1,RC Control,,
+FlySky FS-iA6B Receiver,1,RC Control,IBUS protocol,
+8mm Hardened Steel Linear Bearing Rod 400mm,4,Chassis,,eBay - PDTech
+F694zz Flanged Ball Bearings (4x11x4mm),12,Bearings,,
+22x8x7 Skateboard Bearings,16,Bearings,,
+4mm Steel Rod - 95mm (gearbox axle),2,Chassis,,
+4mm Steel Rod - 80mm (gearbox axle),2,Chassis,,
+Music Wire 0.055in x 36in,8,Tracks,"~35 x 100mm segments per track",eBay - K&S Engineering
+Wood Plank,1,Chassis,See original RC Snowcat design for dimensions,
+PLA Filament,~1kg,3D Printing,All project-specific printed parts,
