@@ -113,24 +113,6 @@ Mission Planner (Windows) was used for all configuration. QGroundControl was tes
 
 ---
 
-## Build Photos
-
-![Build photo 1](media/photos/build-1.jpg)
-
-![Build photo 2](media/photos/build-2.jpg)
-
-![Build photo 3](media/photos/build-3.jpg)
-
----
-
-## Credits
-
-- Chassis: [RCTestFlight](https://www.youtube.com/@RCTestFlight) open-source RC Snowcat design
-- Firmware: [ArduPilot](https://ardupilot.org/)
-- Ground control: [Mission Planner](https://ardupilot.org/planner/)
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
